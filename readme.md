@@ -1,0 +1,3 @@
+## docker img-compress
+This is a simple container which has image compression tools installed
+for working with pngs, jpgs, etc...
